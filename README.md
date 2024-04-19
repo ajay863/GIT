@@ -1,2 +1,2 @@
 # GITHUB TUTORIAL
-        - AJAY GOUD
+        - AJAY KUMAR GOUD
